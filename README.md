@@ -1,6 +1,6 @@
-Deep Learning and Neural Networks
+# Deep Learning and Neural Networks
 
-Deep learning models built for experimentation for the paper:
+## Deep learning models built for experimentation for the paper:
 
 Li, Z., Ding, W., Mashukov, I., Crouter, S., Chen, P. (2024). A Multi-view
 Feature Construction and Multi-Encoder-Decoder Transformer Architecture for
