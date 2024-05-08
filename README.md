@@ -12,3 +12,5 @@ Singapore. https://doi.org/10.1007/978-981-97-2266-2_19
 **NOTE**: The final Multi-Encoder-Decoder-Transformer Model (MEDT) used for time series classification will be published soon. 
 
 The program will feature the new MEDT model architecture, memory growth initialization, logs and performance evaluation file outputs, bug fixes, etc. 
+
+Additionally, the repository contains other models and files used as lecture material and working examples.
